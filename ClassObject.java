@@ -1,3 +1,7 @@
+/*=========================PROBLEM STATEMENT===========================
+Write a program for class and object with data members and member functions
+========================================================================
+*/ 
 class Student{      //Here class has been created of name Student 
     int roll_no;  // roll_no , name and marks are the data members of class Student
     String name;  //display() is the data function of class student
@@ -21,3 +25,9 @@ public class ClassObject{
         s1.display();       //here we have accessed the data function of the class Student with help of object
     }
 }
+/*===================OUTPUT====================
+Roll no : 25058
+Name :Chandrakesh
+Marks :78
+===============================================
+*/
